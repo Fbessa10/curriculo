@@ -1,0 +1,13 @@
+body{
+    color:rgb(240, 255, 34);
+    background-color: rgb(161, 159, 159);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+img {
+    border-radius: 50%;
+    border: 5px solid rgb(240, 255, 34);
+}
+.center {
+    text-align: center;
+}
